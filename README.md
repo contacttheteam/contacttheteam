@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @contacttheteam
 
-createAPassword is the password.
-Alwaysdance is my wifi password.
-Thats why I am creating a popup application called Alwaysdance.
-
-
-
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
